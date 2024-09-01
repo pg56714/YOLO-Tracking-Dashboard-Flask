@@ -10,8 +10,6 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 
 pip install asone
 
-pip install streamlit
-
 pip install flask
 pip install flask_wtf
 pip install flask_bootstrap
